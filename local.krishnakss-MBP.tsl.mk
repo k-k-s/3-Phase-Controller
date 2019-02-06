@@ -1,0 +1,1 @@
+GCC_RootDir = /Users/kks/Documents/avr-gcc-3.6.2/avr8-gnu-toolchain-darwin_x86_64
